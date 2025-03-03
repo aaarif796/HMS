@@ -54,12 +54,8 @@ This is a **Spring Boot Web** project designed for a **Hospital Management Syste
 - `GET /appointments/{id}` - Fetch appointment details
 - `POST /prescriptions/create` - Doctor issues a prescription
 
-## Screenshots
-_(Add images of UI if available)_
-
 ## Contributors
-- Aarif
-- Adil
+- [adil7616](https://github.com/adil7616)
 
 ## License
 This project is licensed under the **MIT License**.
